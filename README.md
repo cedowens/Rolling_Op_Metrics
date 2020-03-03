@@ -8,3 +8,4 @@ This spreadsheet will calculate dwell time, time to detection, time to remediati
 - Initial Detection Time
 - Full Remediation Time
 
+This spreadsheet also has sample graphs for dwell time, time to detection, time to remediation, and time to initial access across operations.
